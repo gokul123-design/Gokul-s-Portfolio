@@ -868,6 +868,7 @@ footer{
 
     .nav-logo{
         width: 80px;
+        display: flex;
     }
 
     .nav-name{
