@@ -490,6 +490,21 @@ section{
     width: 70%;
 }
 
+.skill-per.django{
+    animation-delay: 0.1s;
+    width: 50%;
+}
+
+.skill-per.sql{
+    animation-delay: 0.1s;
+    width: 50%;
+}
+
+.skill-per.bootstrap{
+    animation-delay: 0.1s;
+    width: 70%;
+}
+
 @keyframes progress{
     0%{
         width: 0;
