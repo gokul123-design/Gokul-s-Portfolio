@@ -892,3 +892,10 @@ footer{
 
 }
 
+@media only screen and (max-width: 320px) {
+    .nav-name{
+        font-size: 14px;
+    }
+}
+
+
